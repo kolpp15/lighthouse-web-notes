@@ -68,3 +68,12 @@ describe('test the hello and goodbye communication functions', () => {
 - To run mocha, have to specify the direcory in the command line
 - adding .test in the file name will automatically pickup all the test files in the test directory (ex. hello-world.tes.js)
 
+## Technical Interview #1
+1. Define falsy and truthy in javascript
+2. Difference between == and === in javascript
+3. fix or improve in a given sample code: 
+    - use === instead of ==
+    - use {} after the if statement
+    - use for...of statement
+4. Comments:
+    - Logic building takes time. It's more important than learning the language. Takes about 6-9 months 
