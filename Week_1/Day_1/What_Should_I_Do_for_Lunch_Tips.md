@@ -12,3 +12,22 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log("availableTime is", availableTime);
 }
 ```
+
+## Other notes
+
+Mentor Hours:
+- Mon - Thur: 12 - 9PM
+- Friday: 12 - 5PM
+- Weekend: 12 - 4PM
+
+Workshops:
+- Week 5: Intro
+- Week 7: Resume
+- Week 9: Interview
+- Week 10: Final draft resume due
+- Week 12: Demo Day
+
+Tech Interviews:
+- Week 2
+- Week 4
+- Week 9
