@@ -40,3 +40,5 @@ This repository contains all of the notes taken by [Brian](https://github.com/ko
   * [Day 5](/Week_7/Day_5) - Custom Hooks, TDD
 * [Week 8](/Week_8) - Ruby
   * [Day 5](/Week_8/Day_5) - Intro to Ruby
+* [Week 8](/Week_10) - Ruby
+  * [Day 1](/Week_10/Day_1) - Ruby MVC
